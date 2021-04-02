@@ -1,0 +1,99 @@
+/* body{
+  background-color: #000000;
+
+} */
+
+ hr{
+  border-width: 2px;
+  border-color: #343a40;
+
+}
+img {
+  width: 200px;
+  height: 300px;
+}
+
+.card {
+  color: white;
+  border: black;
+  cursor: pointer;
+  background-color: #1a1a1a;
+
+}
+
+.card-deck {
+  margin-bottom: 25px;
+}
+
+.font {
+  color: white;
+  width: 100%;
+}
+
+.join {
+  color: #a6a9b6;
+}
+
+.dfont{
+  color: white;
+}
+
+.dimage{
+  width: 300px;
+  height: 400px;
+}
+.vl {
+  border-left: 4px solid #17a2b8;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+.v2{
+  border-left: 2px solid #6c757d;
+  height: 70%;
+  position: absolute;
+  left: 15%;
+  margin-left: -3px;
+  top: 0;
+}
+.center {
+  text-align: center;
+  border: 2px solid #343a40;
+}
+.center2 {
+  margin: auto;
+  width: 50%;
+  border: 2px solid #343a40;
+  padding: 10px;
+}
+.bcolor{
+  color: black;
+}
+
+.lvisited:link, .lvisited:visited {
+  background-color: #903749;
+  color: white;
+  padding: 15px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.lvisited:hover, .lvisited:active {
+  background-color: #53354a;
+}
+
+/* .lvisited:visited{
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+} */
+
+/* .lhover:hover {
+  color: white;
+  background-color: #17a2b8;
+  text-decoration: none;
+  padding: 4px 4px;
+} */
